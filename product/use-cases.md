@@ -2,7 +2,7 @@
 
 Auralo is developing a HUD to accommodate all market participants on Web3. Its intelligence layer powered by AI, real-time data overlays, as well as other proprietary tools sharpen user precision for all types of users in competitive and volatile ecosystems.
 
-<figure><img src="../.gitbook/assets/TransparentHUD.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/MacAuralo.png" alt=""><figcaption></figcaption></figure>
 
 #### Active Traders
 
