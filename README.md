@@ -1,13 +1,13 @@
 # Overview
 
-Auralo is an AI-powered, real-time market intelligence platform for the Web3 era. It operates as a persistent overlay for browsers or desktop environments, delivering traders, DeFi users, and researchers instant access to the information that matters most. The platform integrates on-chain analytics, off-chain market data, sentiment tracking, and AI-driven interpretation into a single interface that stays within the user’s workflow.
+Auralo is designed for the Web3 era as a real-time market intelligence platform powered by AI. Auralo appears as a persistent overlay for browsers or desktop environments which brings relevant information to traders, DeFi users, and researchers in real-time. It integrates analytics and off-chain data, off-chain market data, and sentiment evaluation to give AI-driven insights in a single window as per the user's flow.
 
-Today’s market participants face a fragmented environment. Traders monitor multiple dashboards, track social sentiment in separate apps, and watch price action across several exchanges. This fragmented approach slows decision-making, increases the risk of missed opportunities, and requires constant tab switching. Auralo solves this by consolidating critical intelligence into a unified view that is contextually relevant to the task at hand.
+Today's market scramble is a source of pain for the users. Auralo helps by providing information intelligence in a simplified view, which allows users to make decisions quickly and track numerous things without worrying about information overload and lost opportunities. It replaces the need of constant making or losing essential tabs.
 
-Auralo is not simply another data aggregator. It is designed to interpret and prioritize the flood of market information, delivering it directly to the user in real time. The platform helps users see not only what is happening, but why it matters and how it might impact their next move.
+As data aggregator, Auralo provides the higher level of service by providing real-time analytics along with contextual relevance to the users. This additional AI layer helps users grasp the importance of actions and anticipate the impending consequences linked with it.
 
-The goal is simple: provide a single, intelligent interface that enables better, faster, and more confident decision-making in volatile markets.
+Auralo enables a simple actionable goal which is to increase user's confidence while making decisions in highly fluctuating markets. The combination of features ensures traders do no face issues tracking opportunities. Users simply make upload, process, and download operations while Auralo takes care of everything.
 
 
 
-<figure><img src=".gitbook/assets/Hero Design.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/AuraloBanner.png" alt=""><figcaption></figcaption></figure>

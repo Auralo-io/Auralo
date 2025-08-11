@@ -55,7 +55,7 @@ The $AUR token unlocks multiple core functions within the Auralo HUD ecosystem:
 5. **Developer Incentives**
    * Developers receive $AUR for creating, maintaining, and upgrading plugins in the HUD marketplace
 6. **Deflationary Mechanics**
-   * A portion of trading tax and plugin transaction fees may be burned to reduce circulating supply over time
+   * A portion of trading tax and plugin transaction fees may be burned to reduce circulating supply over time.
 
 ***
 
@@ -66,6 +66,6 @@ The Auralo economic model balances accessibility with ecosystem longevity:
 * **5% Buy Tax / 5% Sell Tax**
   * **50% Development:** Funds platform infrastructure, AI enhancements, and HUD expansion
   * **50% Marketing:** Drives user acquisition, brand partnerships, and strategic collaborations
-* **Liquidity Lock:** 12 months to protect against early liquidity removal
-* **Treasury Oversight:** All major allocations require multi-signature approval for accountability
+  * The Team plans to introduce 0/0 taxes in future DAO voting.
+* **Liquidity Lock:** 12 months to protect against early liquidity removal.
 * **Growth-Driven Token Flow:** Funds are reinvested into continuous HUD upgrades, new AI modules, and developer incentives

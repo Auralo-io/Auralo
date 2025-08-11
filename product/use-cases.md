@@ -1,48 +1,39 @@
 # Use Cases
 
-Auralo’s HUD is built to serve a wide spectrum of market participants in Web3. Its combination of AI-driven intelligence, real-time overlays, and customizable tools enables each type of user to gain a decisive edge in fast-moving markets.
+Auralo is developing a HUD to accommodate all market participants on Web3. Its intelligence layer powered by AI, real-time data overlays, as well as other proprietary tools sharpen user precision for all types of users in competitive and volatile ecosystems.
 
-
+<figure><img src="../.gitbook/assets/TransparentHUD.png" alt=""><figcaption></figcaption></figure>
 
 #### Active Traders
 
-Active day traders and swing traders operate in environments where seconds matter. Auralo provides them with instant access to sentiment, technical context, and market-moving events without the need to toggle between multiple platforms. Features such as **Customizable Alerts** and **Technical Overlays** reduce decision latency and help traders execute with confidence.
+Auralo’s HUD serves as a one-stop-shop for swing and day traders, as it amalgamates market sentiment with real-time overlays and contextual market data. The Triage and Decision Hub allows real-time information to flow seamlessly and reduces toggling between separate tools, improving execution confidence and agility for fast-paced traders.
 
 **Example Scenario:**\
-A trader monitoring Ethereum sees sentiment turning sharply negative on the **Live Sentiment Index** due to an exploit reported on a major DeFi protocol. The HUD instantly overlays key resistance levels, confirming the likelihood of a price drop. The trader acts within seconds, securing a profitable short position before the news reaches wider audiences.
+An Ethereum trader observes a sharp decline in sentiment on the Live Sentiment Index as an exploit has been reported on a DeFi protocol. HUD confirms the sentiment spike by overlaying key resistance levels crucial for confirming a price drop. The trader acts fast and secures a short position just as the price begins to drop, well ahead of the news becoming public.
 
 
 
 #### DeFi Yield Farmers and Liquidity Providers
 
-For users providing liquidity or farming yield in DeFi protocols, market context is critical to managing impermanent loss and maximizing returns. Auralo’s **Trending Markets Tracker** and **Whale Watch** features help identify inflows and outflows in liquidity pools, signaling where capital is moving.
+In DeFi, users offering funding or farming yield to obtain it must understand how to limit impermanent loss to optimize earning. Contextual information is pivotal for maximizing returns. Auralo’s Trending Markets Tracker and Whale Watch make it easy to detect liquidity inflow and outflow, revealing where capital is being directed.
 
 **Example Scenario:**\
-A yield farmer receives a HUD alert that a large liquidity withdrawal has occurred in one of their pools. This early signal gives them time to rebalance and avoid unfavorable conditions.
+To maximize efficiency, a yield farmer leverages a HUD alert system that notifies them of any significant changes in liquidity within their pools. In this instance, they receive a HUD alert claiming that a considerable amount of liquidity has been withdrawn, allowing them to rebalance before it is too late.
 
 
 
 #### Long-Term Investors and Portfolio Managers
 
-Long-term participants require curated insights rather than constant trade alerts. Auralo’s AI can be configured to provide periodic summaries, highlighting macro sentiment shifts, key whale positions, and project fundamentals. This ensures strategic decisions are informed by the same institutional-grade intelligence without being overwhelmed by day-to-day noise.
+These investors get tailored insights, as they do not desire to receive trade alerts. In this case, Auralo's AI can be set to provide summaries focused on macro-sentiment changes, key whale movements, and project fundamentals. This helps ensure that strategic decisions are still informed by institutional-level intelligence without being overwhelmed by constant alerts.
 
 **Example Scenario:**\
-A portfolio manager uses the **New Launch Radar** to identify promising early-stage tokens that align with their long-term thesis. They integrate these assets into their watchlist while monitoring AI-generated sentiment trends over the following weeks.
-
-
-
-#### NFT Traders and Collectors
-
-NFT markets move at high speed, and valuable drops can be missed in minutes. Auralo extends its intelligence layer to track NFT launches, trending collections, and wallet activity from influential collectors.
-
-**Example Scenario:**\
-A collector sees that sentiment is spiking for a specific NFT collection on the **Live Sentiment Index**. The HUD shows a sharp increase in sales volume alongside wallet activity from a known top-tier trader. They purchase early before the wider market catches on.
+Through Auralo, a portfolio manager is able to set up a watchlist. Using the New Launch Radar, they add assets associated with promising tokens that are still in their growth stages and align with the long-term thesis, strategically integrating them into their watchlist.
 
 
 
 #### Analysts and Researchers
 
-For those conducting deep market analysis, Auralo serves as a research companion that consolidates fragmented data into one overlay. With its plugin ecosystem, researchers can integrate custom data feeds, on-chain metrics, and sector-specific trackers directly into the HUD.
+For deep market research, Auralo acts as a research aide to streamline the fragmented datasets. Auralo’s HUD plugins allow incorporating custom mid-and-on-chain data, as well as sector-specific trackers, feeding them directly to the HUD.
 
 **Example Scenario:**\
-An on-chain analyst configures a custom plugin to track DAO governance proposals across multiple protocols. Auralo surfaces sentiment and whale positioning related to these proposals, enabling the analyst to anticipate governance-driven price movements.
+An on-chain analyst sets a custom plugin for monitoring DAO governance proposals on several protocols. Auralo enriches the sentiment and whale positioning data relative to the proposals, allowing the analyst to forecast governance-related price changes.
