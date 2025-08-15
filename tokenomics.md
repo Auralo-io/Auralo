@@ -38,6 +38,14 @@ The $AUR token is the backbone of the Auralo ecosystem, powering access, advance
 * **Marketing & Strategic Partnerships:** Released in controlled tranches to support sustained growth
 * **Staking Pool:** Distributed transparently via smart contract based on staking duration and weight&#x20;
 
+
+
+Team Address : TBA
+
+Marketing Wallet & Strategic Partnership Address: TBA
+
+Staking Pool Address : TBA
+
 ***
 
 #### Token Utility
