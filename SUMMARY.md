@@ -22,6 +22,7 @@
 ***
 
 * [Compliance](compliance.md)
+* [Token Utility](token-utility.md)
 * [Tokenomics](tokenomics.md)
 
 ## Useful Links
